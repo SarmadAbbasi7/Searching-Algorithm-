@@ -71,7 +71,3 @@ For a sorted array `[1, 3, 5, 7, 9]`:
 - Binary Search requires the input array to be sorted.
 - Linear Search works for both sorted and unsorted arrays.
 - The project includes test cases to validate the algorithms.
-
----
-
-For more details, refer to the code comments and test cases in the source files.
